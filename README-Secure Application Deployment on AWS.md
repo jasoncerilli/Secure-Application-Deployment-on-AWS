@@ -39,6 +39,8 @@ This project starts with a deliberately insecure AWS environment and rebuilds it
 
 ## Architecture Overview
 
+![](images/secure.png)
+
 ### Baseline (Insecure) Architecture
 Internet
 │
